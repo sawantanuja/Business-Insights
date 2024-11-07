@@ -14,8 +14,11 @@ https://shorturl.at/9FUMX
 
 # Business Related Terms
 1.Gross price
+
 2.Pre-invoice deductions
+
 3.Post-Invoice deductions
+
 4.Net Invoice sale
 5.Gross Margin
 6.Net sales
