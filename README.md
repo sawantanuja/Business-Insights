@@ -7,10 +7,10 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 https://shorturl.at/9FUMX
 
 ## Technical Advancements
-🔸 PowerBI Desktop
-🔸 PowerBI Service
-🔸 Power Query
-🔸 DAX studio
+🔸 PowerBI Desktop  
+🔸 PowerBI Service  
+🔸 Power Query  
+🔸 DAX studio  
 
 
 ## Tools and Skills Used:
