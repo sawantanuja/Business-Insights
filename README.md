@@ -8,11 +8,8 @@ https://shorturl.at/9FUMX
 
 ## Technical Advancements
 1.PowerBI Desktop
-
 2.PowerBI Service
-
 3.Power Query
-
 4.DAX studio
 
 ## Business Related Terms
